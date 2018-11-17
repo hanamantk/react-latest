@@ -21,6 +21,7 @@ callPar(action){
           
             <div className="clrfix downbtn "><button onClick={this.callPar.bind(this,'down')}>v</button></div>
       </div>
+      
      
     );
   }

@@ -23,7 +23,7 @@ class App extends Component {
     this.currntPosition=rowOrCol==='row'?(row+this.currntPosition[1]):
                                 (this.currntPosition[0]+row);
      var render= this.getBoundaryOfTable(this.currntPosition);
-    var isRender=(render===true)?this.setState({position:this.currntPosition}):null; 
+    var isRender=(render===true)?this.setState({position:this.currntPosition}):alert('Crossed Board Limit'); 
 
   }
 
