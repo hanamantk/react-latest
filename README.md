@@ -15,13 +15,11 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-/********************************* GAME PAD ***************************************/
-    this is simple game pad where in you will be having
-    game pad and white board with multiple cells
-    where you can move icon up ,down , left ,right
+/********************************* GAME PAD ***************************************/                                                        
+    this is simple game pad where in you will be having                                                                                       game pad and white board with multiple cells                                                                                           
+    where you can move icon up ,down , left ,right                                                                                         
     there is limited boundary defined for board beyond you cannot cross
     
