@@ -69,4 +69,5 @@ table{
   margin: 20px auto;
   height: 105px;
   background: yellowgreen;
+  border-radius: 7px;
 }
